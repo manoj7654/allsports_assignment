@@ -13,7 +13,7 @@ const options = {
     },
     servers: [
       {
-        url: 'http://localhost:4500/',
+        url: 'https://allsports-j86j.onrender.com/',
       },
     ],
   },
