@@ -1,4 +1,4 @@
-# allsports_assignment# AllSports API
+ # E-commerce API
 
 An e-commerce API with user registration and login manages user accounts, while category and product endpoints handle the organization and details of merchandise. It supports secure user authentication, CRUD operations on categories and products, and facilitates smooth management and retrieval of store data.
 
