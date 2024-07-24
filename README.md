@@ -75,6 +75,6 @@ An e-commerce API with user registration and login manages user accounts, while 
 
 ### Swagger
 
-[swagger Link](#https://allsports-j86j.onrender.com/api-docs/)
+[swagger Link](https://allsports-j86j.onrender.com/api-docs/)
 ### Deployed Link
-[Live](#https://allsports-j86j.onrender.com/)
+[Live](https://allsports-j86j.onrender.com/)
